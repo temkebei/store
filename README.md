@@ -1,2 +1,0 @@
-# store
-Angular online Store
